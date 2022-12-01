@@ -63,7 +63,7 @@ Here is the index for all of the content in this course. Feel free to go through
 
 #### 3.) Beginner RE     
 -    :heavy_check_mark: pico18_strings     
--    helithumper_re
+-    :heavy_check_mark: helithumper_re
 -    csaw18_tourofx86pt1     
 -    csaw19_beleaf
 
